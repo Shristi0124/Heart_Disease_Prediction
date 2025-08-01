@@ -1,5 +1,3 @@
-# Heart_Disease_Prediction
-
 # 🫀 Heart Disease Prediction
 
 A web application to predict heart disease risk using a Machine Learning model integrated with Django.
